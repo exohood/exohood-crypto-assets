@@ -1,7 +1,7 @@
 {
     "name": "Trust Wallet: BNB",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
-    "timestamp": "2022-07-10T01:38:51.411735",
+    "timestamp": "2022-07-13T01:36:13.116582",
     "tokens": [
         {
             "asset": "c714",
@@ -234,7 +234,7 @@
                 },
                 {
                     "base": "c714_tFSN-E14",
-                    "lotSize": "100000000",
+                    "lotSize": "1000000000",
                     "tickSize": "1"
                 },
                 {
@@ -309,7 +309,7 @@
                 },
                 {
                     "base": "c714_tMDAB-D42",
-                    "lotSize": "10000000000",
+                    "lotSize": "100000000000",
                     "tickSize": "1"
                 },
                 {
@@ -559,7 +559,7 @@
                 },
                 {
                     "base": "c714_tZEBI-84F",
-                    "lotSize": "1000000000000",
+                    "lotSize": "100000000000",
                     "tickSize": "1"
                 }
             ]
@@ -620,7 +620,7 @@
                 },
                 {
                     "base": "c714_tBURGER-33A",
-                    "lotSize": "100000000",
+                    "lotSize": "10000000",
                     "tickSize": "1000"
                 },
                 {
@@ -641,7 +641,7 @@
                 {
                     "base": "c714_tEOS-CDD",
                     "lotSize": "100000000",
-                    "tickSize": "100"
+                    "tickSize": "1000"
                 },
                 {
                     "base": "c714_tETH-1C9",
@@ -680,7 +680,7 @@
                 },
                 {
                     "base": "c714_tSWINGBY-888",
-                    "lotSize": "10000000000",
+                    "lotSize": "100000000000",
                     "tickSize": "1"
                 },
                 {
@@ -2059,7 +2059,7 @@
         }
     ],
     "version": {
-        "major": 340,
+        "major": 343,
         "minor": 0,
         "patch": 0
     }
